@@ -1,0 +1,35 @@
+
+body{
+    background: #3E4747;
+    overflow: auto;
+}
+#wrapper{
+  background: #FFFFFF;
+  width: 800px;
+  margin: 50px auto;
+  overflow: auto;
+}
+#header{
+  background: #FF3333;
+  padding: 15px;
+  color: white;
+}
+#header h1{
+  text-align: center;
+}
+#content{
+  width: auto;
+  height: 400px;
+  padding: 15px;
+}
+#nav {
+  float: left;
+  width: auto;
+  height: 400px;
+  padding: 15px;
+  background-color: #0f90a2;
+}
+#footer{
+  text-align: center;
+  background-color: #666666;
+}
